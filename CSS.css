@@ -11,11 +11,22 @@ background-image: url(fondoxayona.png)
 
 
 }
-h1{
-margin-left: 20%;
-color: #666666;
-}
 
+
+.Header{
+
+margin-left: 20%;
+margin-right:20%;
+color: #666666;
+border-style:none;
+
+border-color: #ffffff;
+padding: 2%
+
+}
+h1{
+float: left;
+}
 
 
 a:link {
@@ -34,14 +45,15 @@ color: #ff6600;
 
 ul{
 	text-align:right;
-	margin-right:20%;
+	
 	word-spacing:60px;
 	
 	}
 
-
-
-
+h3 {
+ color: #f87f12;
+ }
+	
 .Pictureleft{
 
 background-image:url(CANELONES.png);
@@ -63,14 +75,28 @@ float: left;
 
 
 
-
-
 }
 
-h3 {
- color: #f87f12;
- }
- .Service1{
+
+.border1{
+border-style:none;
+
+border-color: #ffffff;
+padding: 2%;
+}
+.border2{
+border-style:none;
+border-color: #ffffff;
+padding: 2%;
+}
+.border3{
+border-style:none;
+border-color: #ffffff;
+padding: 2%;
+}
+
+
+.Service1{
 margin-left: 40%;
 margin-right: 20%;
 font-size: 0.6875rem;
@@ -80,14 +106,14 @@ line-height: 1.6em;
 }
 
  .Service2{
- margin-left: 40%;
+margin-left: 40%;
 margin-right: 20%;
 font-size: 0.6875rem;
 color: #666666;
 line-height: 1.6em;
  }
  .Service3{
- margin-left: 40%;
+margin-left: 40%;
 margin-right: 20%;
 font-size: 0.6875rem;
 color: #666666;
