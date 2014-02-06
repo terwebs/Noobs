@@ -1,0 +1,97 @@
+html{
+margin: 0;
+padding: 0;
+}
+
+body 
+{
+background-color: #e8e8e8;
+font-family: "Rokkitt", serif;
+background-image: url(fondoxayona.png)
+
+
+}
+h1{
+margin-left: 20%;
+color: #666666;
+}
+
+
+
+a:link {
+text-decoration: none; 
+color: #666666;
+}
+a:visited {
+color: #333333;
+}
+a:hover {
+color: #ff6600;
+}
+a:active {
+color: #ff6600;
+}
+
+ul{
+	text-align:right;
+	margin-right:20%;
+	word-spacing:60px;
+	
+	}
+
+
+
+
+.Pictureleft{
+
+background-image:url(CANELONES.png);
+background-size:100% 100%;
+background-repeat:no-repeat;
+padding-top:20em;
+
+border-width: thin;
+border-style: solid;
+background-color: #ffffff;
+border-color: #ffffff;
+font-size:0.7em;
+width: 15%;
+margin-left: 20%;
+
+text-align: center;
+border-radius: 10px;
+float: left;
+
+
+
+
+
+}
+
+h3 {
+ color: #f87f12;
+ }
+ .Service1{
+margin-left: 40%;
+margin-right: 20%;
+font-size: 0.6875rem;
+color: #666666;
+line-height: 1.6em;
+
+}
+
+ .Service2{
+ margin-left: 40%;
+margin-right: 20%;
+font-size: 0.6875rem;
+color: #666666;
+line-height: 1.6em;
+ }
+ .Service3{
+ margin-left: 40%;
+margin-right: 20%;
+font-size: 0.6875rem;
+color: #666666;
+line-height: 1.6em;
+ }
+ 
+ 
