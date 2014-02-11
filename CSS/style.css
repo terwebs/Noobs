@@ -8,7 +8,7 @@ body
 
 background-color: #e8e8e8;
 font-family: "Rokkitt", serif;
-background-image: url(fondoxayona.png)
+background-image: url(../Images/fondoxayona.png)
 
 
 }
@@ -50,7 +50,7 @@ nav {
 
 	
 .headerseparador{
-background-image: url(separador.png);
+background-image: url(../Images/separador.png);
 padding: 1%;
 background-size:100% 100%; 
 border-style: none;
@@ -59,7 +59,7 @@ margin-left: 18%;
 margin-right: 18%;
 }	
 .separador{
-background-image: url(separador.png);
+background-image: url(../Images/separador.png);
 padding: 1%;
 background-size:100% 100%; 
 border-style: none;
